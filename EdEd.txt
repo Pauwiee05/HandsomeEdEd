@@ -1,1 +1,3 @@
 Printf("ED, Edd, and Eddyward")
+
+Printf("THE TRIPLETS")
